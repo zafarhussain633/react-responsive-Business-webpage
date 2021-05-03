@@ -17,7 +17,7 @@ function Home() {
         </div>
 
         <div className="col-sm  d-flex justify-content-end ">
-         <img src={home} alt="" width="600px" className="img-fluid" />
+         <img src={home} alt="" width="600px" className="img-fluid" id="Animation" />
 
         </div>
 
